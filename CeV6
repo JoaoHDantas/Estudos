@@ -1,0 +1,2 @@
+medida = int(input('Informe uma media para converter em CM e MM: '))
+print(f'{medida} Metros convertido para CM: {medida*100}cm, convertido para MM: {medida*1000}mm')
