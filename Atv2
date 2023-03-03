@@ -1,4 +1,0 @@
-print('quanto voçê recebe de salario?')
-salario = float (input('> '))
-pagaImposto = salario > 1200
-print('A pessoa paga imposto?', pagaImposto)
